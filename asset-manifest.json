@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactJS_Hackerrank/static/css/main.4cb7811f.chunk.css",
+    "main.js": "/ReactJS_Hackerrank/static/js/main.8db72d78.chunk.js",
+    "main.js.map": "/ReactJS_Hackerrank/static/js/main.8db72d78.chunk.js.map",
+    "runtime-main.js": "/ReactJS_Hackerrank/static/js/runtime-main.b871663e.js",
+    "runtime-main.js.map": "/ReactJS_Hackerrank/static/js/runtime-main.b871663e.js.map",
+    "static/js/2.b1a474c9.chunk.js": "/ReactJS_Hackerrank/static/js/2.b1a474c9.chunk.js",
+    "static/js/2.b1a474c9.chunk.js.map": "/ReactJS_Hackerrank/static/js/2.b1a474c9.chunk.js.map",
+    "static/js/3.d626f69b.chunk.js": "/ReactJS_Hackerrank/static/js/3.d626f69b.chunk.js",
+    "static/js/3.d626f69b.chunk.js.map": "/ReactJS_Hackerrank/static/js/3.d626f69b.chunk.js.map",
+    "index.html": "/ReactJS_Hackerrank/index.html",
+    "static/css/main.4cb7811f.chunk.css.map": "/ReactJS_Hackerrank/static/css/main.4cb7811f.chunk.css.map",
+    "static/js/2.b1a474c9.chunk.js.LICENSE.txt": "/ReactJS_Hackerrank/static/js/2.b1a474c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b871663e.js",
+    "static/js/2.b1a474c9.chunk.js",
+    "static/css/main.4cb7811f.chunk.css",
+    "static/js/main.8db72d78.chunk.js"
+  ]
+}
