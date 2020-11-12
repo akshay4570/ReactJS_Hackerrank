@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.heading {
+    color: rgb(44, 236, 44);
+}
+
+.text {
+  color: black;
+}
+
+.btn{
+  background: rgb(14, 199, 14);
+  width: 20%;
+}
+
+.prev{
+  margin-left: 2%;
+  margin-top: 2%;
+}
+
+.reset{
+  margin: 2%;
+}
+
+.next{
+  margin-right: 2%;
+  margin-top: 2%;
+}
+.text-content{
+  margin: 10%;
+  padding: 5%;
+  width: 80%;
+}
